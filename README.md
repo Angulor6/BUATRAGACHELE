@@ -1,3 +1,6 @@
+SOS UN TRAGACHELE EXEQUIEL!!!!!!
+
+
 # Personal Trainer
 
 Personal Trainer built using Angular6 and TypeScript
