@@ -1,5 +1,3 @@
-SOS UN TRAGACHELE EXEQUIEL!!!!!!
-
 
 # Personal Trainer
 
